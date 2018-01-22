@@ -1,0 +1,77 @@
+.photomaton{
+  text-align: center;
+  margin-top: 3%;
+}
+
+.main{
+	margin-top: 2vmin;
+  border: black 1px solid;
+  min-width: 475px;
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 2px solid white;
+	margin-left: auto;
+	margin-right: auto;
+	width: fit-content;
+}
+
+#image_filtre {
+	position: absolute;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#filtres {
+	margin-top: 30px;
+	width: 57vmin;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#test{
+	text-align: center;
+}
+
+.last_pic {
+	background-color: rgba(255, 255, 255, 0.8);
+    border: 2px solid white;
+	margin-top: 3vmin;
+	margin-left: auto;
+	margin-right: auto;
+	display: table;
+}
+
+.pic {
+	width: 21vmin;
+}
+
+.sel-pic {
+	width: 11vmin;
+	min-width: 85px;
+}
+
+footer {
+position: absolute;
+ right: 0;
+ bottom: 0;
+ width: 50%;
+ margin-left: auto;
+ margin-right: auto;
+ left: 0;
+ padding: 1rem;
+ background-color: #efefef;
+ text-align: center;
+ border: 2px solid white;
+ border-radius: 4px 4px 0px 0px;
+ background-color: rgba(255, 255, 255, 0.8);
+ min-width: 195px;
+}
+
+.upload {
+	background-color: rgba(255, 255, 255, 0.8);
+    border: 2px solid white;
+	margin-left: auto;
+	margin-right: auto;
+	width: 15vmin;
+	margin-top: 15px;
+	min-width: 159px;
+}

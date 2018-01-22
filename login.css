@@ -1,0 +1,64 @@
+.log {
+	width: 40vmin;
+	height: 23vmin;
+	background-color: rgba(255, 255, 255, 0.8);
+	border-radius: 5px 5px 5px 5px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 15%;
+	text-align: center;
+	border: 4px solid white;
+	min-height: 202px;
+	min-width: 160px;
+}
+
+.inscription {
+	width: 40vmin;
+	height: 26vmin;
+	background-color: rgba(255, 255, 255, 0.8);
+	border-radius: 5px 5px 5px 5px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 15%;
+	text-align: center;
+	border: 4px solid white;
+	min-height: 215px;
+	min-width: 343px;
+}
+
+input {
+	background-color: rgba(255, 255, 255, 0.5);
+}
+
+button {
+	background-color: rgba(255, 255, 255, 0.5);
+}
+
+form {
+	margin-top: 5vmin;
+}
+
+.infor {
+	border: 4px solid white;
+	background-color: rgba(255, 255, 255, 0.8);
+	text-align: center;
+}
+
+.modif {
+	width: 40vmin;
+	height: 18vmin;
+	background-color: rgba(255, 255, 255, 0.8);
+	border-radius: 5px 5px 5px 5px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 15%;
+	text-align: center;
+	border: 4px solid white;
+	min-height: 133	px;
+	min-width: 160px;
+}
+
+#title_mod {
+	text-align: center;
+	margin-top: 6vmin;
+}
